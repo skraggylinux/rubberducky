@@ -1,0 +1,39 @@
+REM Windows 10 shutdown prank
+REM skraggylinux@gmail.com
+REM Try it !!!!!
+DELAY 200
+GUI d
+DELAY 100
+GUI r
+DELAY 100
+STRING notepad
+DELAY 100
+ENTER
+DELAY 200
+STRING you have a virus and your hard drive will now be deleted and your pc shutdown 
+DELAY 5000
+ALT F4
+TAB 
+ENTER
+GUI d
+DELAY 200
+CTRL-ALT DEL
+DELAY 100
+TAB
+DELAY 50
+TAB
+DELAY 50
+TAB
+DELAY 50
+TAB
+DELAY 50
+TAB
+DELAY 50
+TAB
+DELAY 50
+TAB
+DELAY 50
+ENTER
+DOWNARROW
+ENTER
+REM have fun!!!!
